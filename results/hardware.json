@@ -1,0 +1,2594 @@
+[
+  {
+    "cuda": "12.8",
+    "python": "3.11.14 | packaged by conda-forge | (main, Oct 22 2025, 22:46:25) [GCC 14.3.0]",
+    "run_key": "51bfc01f3eececc69550",
+    "torch": "2.9.1+cu128",
+    "torch_devices": [
+      {
+        "compute_capability": [
+          8,
+          0
+        ],
+        "memory_bytes": 85094825984,
+        "name": "NVIDIA A100 80GB PCIe"
+      }
+    ]
+  },
+  {
+    "cuda": "12.8",
+    "python": "3.11.14 | packaged by conda-forge | (main, Oct 22 2025, 22:46:25) [GCC 14.3.0]",
+    "run_key": "9ec3c2f56577324ef7a6",
+    "torch": "2.9.1+cu128",
+    "torch_devices": [
+      {
+        "compute_capability": [
+          12,
+          0
+        ],
+        "memory_bytes": 101975851008,
+        "name": "NVIDIA RTX PRO 6000 Blackwell Server Edition"
+      }
+    ]
+  },
+  {
+    "cuda": "12.8",
+    "python": "3.12.11 (main, Jun  4 2025, 08:56:18) [GCC 11.4.0]",
+    "run_key": "614dee4dd417d7214c45",
+    "torch": "2.8.0+cu128",
+    "torch_devices": [
+      {
+        "compute_capability": [
+          12,
+          0
+        ],
+        "memory_bytes": 25367150592,
+        "name": "NVIDIA RTX PRO 6000 Blackwell Server Edition MIG 1g.24gb"
+      }
+    ]
+  },
+  {
+    "cuda": "12.8",
+    "python": "3.12.11 (main, Jun  4 2025, 08:56:18) [GCC 11.4.0]",
+    "run_key": "b973cb74fdc033b31d40",
+    "torch": "2.8.0+cu128",
+    "torch_devices": [
+      {
+        "compute_capability": [
+          8,
+          9
+        ],
+        "memory_bytes": 47667740672,
+        "name": "NVIDIA L40S"
+      }
+    ]
+  },
+  {
+    "cuda": "12.8",
+    "python": "3.12.11 (main, Jun  4 2025, 08:56:18) [GCC 11.4.0]",
+    "run_key": "7cd27a065ed7cef0274a",
+    "torch": "2.8.0+cu128",
+    "torch_devices": [
+      {
+        "compute_capability": [
+          8,
+          9
+        ],
+        "memory_bytes": 23661248512,
+        "name": "NVIDIA L4"
+      }
+    ]
+  },
+  {
+    "cuda": "12.8",
+    "python": "3.12.11 (main, Jun  4 2025, 08:56:18) [GCC 11.4.0]",
+    "run_key": "70f03610279f6fd4d816",
+    "torch": "2.8.0+cu128",
+    "torch_devices": [
+      {
+        "compute_capability": [
+          8,
+          9
+        ],
+        "memory_bytes": 50867404800,
+        "name": "NVIDIA RTX 6000 Ada Generation"
+      }
+    ]
+  },
+  {
+    "cuda": "12.8",
+    "python": "3.12.11 (main, Jun  4 2025, 08:56:18) [GCC 11.4.0]",
+    "run_key": "25795fa739e64f803675",
+    "torch": "2.8.0+cu128",
+    "torch_devices": [
+      {
+        "compute_capability": [
+          8,
+          9
+        ],
+        "memory_bytes": 25252724736,
+        "name": "NVIDIA GeForce RTX 4090"
+      }
+    ]
+  },
+  {
+    "cuda": "12.8",
+    "python": "3.12.11 (main, Jun  4 2025, 08:56:18) [GCC 11.4.0]",
+    "run_key": "af2cf7d58711fa58f722",
+    "torch": "2.8.0+cu128",
+    "torch_devices": [
+      {
+        "compute_capability": [
+          8,
+          9
+        ],
+        "memory_bytes": 47667740672,
+        "name": "NVIDIA L40S"
+      }
+    ]
+  },
+  {
+    "cuda": "12.8",
+    "python": "3.12.11 (main, Jun  4 2025, 08:56:18) [GCC 11.4.0]",
+    "run_key": "cdd6fbc7091f0ae54555",
+    "torch": "2.8.0+cu128",
+    "torch_devices": [
+      {
+        "compute_capability": [
+          8,
+          9
+        ],
+        "memory_bytes": 50867404800,
+        "name": "NVIDIA RTX 6000 Ada Generation"
+      }
+    ]
+  },
+  {
+    "cuda": "12.8",
+    "python": "3.11.14 | packaged by conda-forge | (main, Oct 22 2025, 22:46:25) [GCC 14.3.0]",
+    "run_key": "dc44d0aafbf554064a0d",
+    "torch": "2.9.1+cu128",
+    "torch_devices": [
+      {
+        "compute_capability": [
+          12,
+          0
+        ],
+        "memory_bytes": 33689829376,
+        "name": "NVIDIA RTX PRO 4500 Blackwell Server Edition"
+      }
+    ]
+  },
+  {
+    "cuda": "12.8",
+    "python": "3.11.14 | packaged by conda-forge | (main, Oct 22 2025, 22:46:25) [GCC 14.3.0]",
+    "run_key": "99cd40d576b1e0a47d14",
+    "torch": "2.9.1+cu128",
+    "torch_devices": [
+      {
+        "compute_capability": [
+          12,
+          0
+        ],
+        "memory_bytes": 50868518912,
+        "name": "NVIDIA RTX PRO 6000 Blackwell Server Edition MIG 2g.48gb"
+      }
+    ]
+  },
+  {
+    "cuda": "12.8",
+    "python": "3.11.14 | packaged by conda-forge | (main, Oct 22 2025, 22:46:25) [GCC 14.3.0]",
+    "run_key": "29e8246b2db299b35943",
+    "torch": "2.9.1+cu128",
+    "torch_devices": [
+      {
+        "compute_capability": [
+          9,
+          0
+        ],
+        "memory_bytes": 85019590656,
+        "name": "NVIDIA H100 PCIe"
+      }
+    ]
+  },
+  {
+    "cuda": "12.8",
+    "python": "3.11.14 | packaged by conda-forge | (main, Oct 22 2025, 22:46:25) [GCC 14.3.0]",
+    "run_key": "1bf5b6fa8a7e242383e0",
+    "torch": "2.9.1+cu128",
+    "torch_devices": [
+      {
+        "compute_capability": [
+          8,
+          9
+        ],
+        "memory_bytes": 25252724736,
+        "name": "NVIDIA GeForce RTX 4090"
+      }
+    ]
+  },
+  {
+    "cuda": "12.8",
+    "python": "3.11.14 | packaged by conda-forge | (main, Oct 22 2025, 22:46:25) [GCC 14.3.0]",
+    "run_key": "b567684ebf2517085687",
+    "torch": "2.9.1+cu128",
+    "torch_devices": [
+      {
+        "compute_capability": [
+          9,
+          0
+        ],
+        "memory_bytes": 85019590656,
+        "name": "NVIDIA H100 80GB HBM3"
+      }
+    ]
+  },
+  {
+    "cuda": "12.8",
+    "python": "3.11.14 | packaged by conda-forge | (main, Oct 22 2025, 22:46:25) [GCC 14.3.0]",
+    "run_key": "24efd14c5ba6c92713f1",
+    "torch": "2.9.1+cu128",
+    "torch_devices": [
+      {
+        "compute_capability": [
+          8,
+          0
+        ],
+        "memory_bytes": 85094825984,
+        "name": "NVIDIA A100 80GB PCIe"
+      }
+    ]
+  },
+  {
+    "cuda": "12.8",
+    "python": "3.12.11 (main, Jun  4 2025, 08:56:18) [GCC 11.4.0]",
+    "run_key": "ddb2b9af7214dcde3588",
+    "torch": "2.8.0+cu128",
+    "torch_devices": [
+      {
+        "compute_capability": [
+          12,
+          0
+        ],
+        "memory_bytes": 101975851008,
+        "name": "NVIDIA RTX PRO 6000 Blackwell Server Edition"
+      }
+    ]
+  },
+  {
+    "cuda": "12.8",
+    "python": "3.11.14 | packaged by conda-forge | (main, Oct 22 2025, 22:46:25) [GCC 14.3.0]",
+    "run_key": "c7a835d11e27969034e7",
+    "torch": "2.9.1+cu128",
+    "torch_devices": [
+      {
+        "compute_capability": [
+          12,
+          0
+        ],
+        "memory_bytes": 50868518912,
+        "name": "NVIDIA RTX PRO 6000 Blackwell Server Edition MIG 2g.48gb"
+      }
+    ]
+  },
+  {
+    "cuda": "12.8",
+    "python": "3.12.11 (main, Jun  4 2025, 08:56:18) [GCC 11.4.0]",
+    "run_key": "3215124a3691cc3731d4",
+    "torch": "2.8.0+cu128",
+    "torch_devices": [
+      {
+        "compute_capability": [
+          12,
+          0
+        ],
+        "memory_bytes": 33687470080,
+        "name": "NVIDIA RTX PRO 4500 Blackwell"
+      }
+    ]
+  },
+  {
+    "cuda": "12.8",
+    "python": "3.11.14 | packaged by conda-forge | (main, Oct 22 2025, 22:46:25) [GCC 14.3.0]",
+    "run_key": "e5535a134830b75bbea8",
+    "torch": "2.9.1+cu128",
+    "torch_devices": [
+      {
+        "compute_capability": [
+          8,
+          9
+        ],
+        "memory_bytes": 47667740672,
+        "name": "NVIDIA L40S"
+      }
+    ]
+  },
+  {
+    "cuda": "12.8",
+    "python": "3.12.11 (main, Jun  4 2025, 08:56:18) [GCC 11.4.0]",
+    "run_key": "b1610951cae9429c46b5",
+    "torch": "2.8.0+cu128",
+    "torch_devices": [
+      {
+        "compute_capability": [
+          8,
+          9
+        ],
+        "memory_bytes": 47667740672,
+        "name": "NVIDIA L40"
+      }
+    ]
+  },
+  {
+    "cuda": "12.8",
+    "python": "3.12.11 (main, Jun  4 2025, 08:56:18) [GCC 11.4.0]",
+    "run_key": "f2cab7669dcf7ea404c2",
+    "torch": "2.8.0+cu128",
+    "torch_devices": [
+      {
+        "compute_capability": [
+          8,
+          9
+        ],
+        "memory_bytes": 25252724736,
+        "name": "NVIDIA GeForce RTX 4090"
+      }
+    ]
+  },
+  {
+    "cuda": "12.8",
+    "python": "3.11.14 | packaged by conda-forge | (main, Oct 22 2025, 22:46:25) [GCC 14.3.0]",
+    "run_key": "ea38a9f1e35e6e042b60",
+    "torch": "2.9.1+cu128",
+    "torch_devices": [
+      {
+        "compute_capability": [
+          8,
+          6
+        ],
+        "memory_bytes": 25298141184,
+        "name": "NVIDIA GeForce RTX 3090"
+      }
+    ]
+  },
+  {
+    "cuda": "12.8",
+    "python": "3.11.14 | packaged by conda-forge | (main, Oct 22 2025, 22:46:25) [GCC 14.3.0]",
+    "run_key": "c82a2569976ad986b516",
+    "torch": "2.9.1+cu128",
+    "torch_devices": [
+      {
+        "compute_capability": [
+          8,
+          9
+        ],
+        "memory_bytes": 23661248512,
+        "name": "NVIDIA L4"
+      }
+    ]
+  },
+  {
+    "cuda": "12.8",
+    "python": "3.11.14 | packaged by conda-forge | (main, Oct 22 2025, 22:46:25) [GCC 14.3.0]",
+    "run_key": "d7f1624e9a9d9ed81822",
+    "torch": "2.9.1+cu128",
+    "torch_devices": [
+      {
+        "compute_capability": [
+          9,
+          0
+        ],
+        "memory_bytes": 85019590656,
+        "name": "NVIDIA H100 80GB HBM3"
+      }
+    ]
+  },
+  {
+    "cuda": "12.8",
+    "python": "3.12.11 (main, Jun  4 2025, 08:56:18) [GCC 11.4.0]",
+    "run_key": "3f49a6bc22fa7b2c5088",
+    "torch": "2.8.0+cu128",
+    "torch_devices": [
+      {
+        "compute_capability": [
+          12,
+          0
+        ],
+        "memory_bytes": 101975851008,
+        "name": "NVIDIA RTX PRO 6000 Blackwell Server Edition"
+      }
+    ]
+  },
+  {
+    "cuda": "12.8",
+    "python": "3.12.11 (main, Jun  4 2025, 08:56:18) [GCC 11.4.0]",
+    "run_key": "17e09ad1abff10bc3fbd",
+    "torch": "2.8.0+cu128",
+    "torch_devices": [
+      {
+        "compute_capability": [
+          8,
+          9
+        ],
+        "memory_bytes": 25252724736,
+        "name": "NVIDIA GeForce RTX 4090"
+      }
+    ]
+  },
+  {
+    "cuda": "12.8",
+    "python": "3.11.14 | packaged by conda-forge | (main, Oct 22 2025, 22:46:25) [GCC 14.3.0]",
+    "run_key": "782c21cf6db36b2ed504",
+    "torch": "2.9.1+cu128",
+    "torch_devices": [
+      {
+        "compute_capability": [
+          12,
+          0
+        ],
+        "memory_bytes": 50868518912,
+        "name": "NVIDIA RTX PRO 6000 Blackwell Server Edition MIG 2g.48gb"
+      }
+    ]
+  },
+  {
+    "cuda": "12.8",
+    "python": "3.11.14 | packaged by conda-forge | (main, Oct 22 2025, 22:46:25) [GCC 14.3.0]",
+    "run_key": "56b7b28973a5fe0a5a1d",
+    "torch": "2.9.1+cu128",
+    "torch_devices": [
+      {
+        "compute_capability": [
+          8,
+          9
+        ],
+        "memory_bytes": 47667740672,
+        "name": "NVIDIA L40"
+      }
+    ]
+  },
+  {
+    "cuda": "12.8",
+    "python": "3.11.14 | packaged by conda-forge | (main, Oct 22 2025, 22:46:25) [GCC 14.3.0]",
+    "run_key": "3765b06940720ebb6829",
+    "torch": "2.9.1+cu128",
+    "torch_devices": [
+      {
+        "compute_capability": [
+          8,
+          9
+        ],
+        "memory_bytes": 47667740672,
+        "name": "NVIDIA L40S"
+      }
+    ]
+  },
+  {
+    "cuda": "12.8",
+    "python": "3.12.11 (main, Jun  4 2025, 08:56:18) [GCC 11.4.0]",
+    "run_key": "8f0b2ac53bff4788dd18",
+    "torch": "2.8.0+cu128",
+    "torch_devices": [
+      {
+        "compute_capability": [
+          8,
+          0
+        ],
+        "memory_bytes": 85094825984,
+        "name": "NVIDIA A100-SXM4-80GB"
+      }
+    ]
+  },
+  {
+    "cuda": "12.8",
+    "python": "3.11.14 | packaged by conda-forge | (main, Oct 22 2025, 22:46:25) [GCC 14.3.0]",
+    "run_key": "e5265da82c3e01a6982b",
+    "torch": "2.9.1+cu128",
+    "torch_devices": [
+      {
+        "compute_capability": [
+          8,
+          9
+        ],
+        "memory_bytes": 20991901696,
+        "name": "NVIDIA RTX 4000 Ada Generation"
+      }
+    ]
+  },
+  {
+    "cuda": "12.8",
+    "python": "3.12.11 (main, Jun  4 2025, 08:56:18) [GCC 11.4.0]",
+    "run_key": "3df4ee6c1d0655e9da2f",
+    "torch": "2.8.0+cu128",
+    "torch_devices": [
+      {
+        "compute_capability": [
+          12,
+          0
+        ],
+        "memory_bytes": 25367150592,
+        "name": "NVIDIA RTX PRO 6000 Blackwell Server Edition MIG 1g.24gb"
+      }
+    ]
+  },
+  {
+    "cuda": "12.8",
+    "python": "3.11.14 | packaged by conda-forge | (main, Oct 22 2025, 22:46:25) [GCC 14.3.0]",
+    "run_key": "1c51524ef8b2152d12f0",
+    "torch": "2.9.1+cu128",
+    "torch_devices": [
+      {
+        "compute_capability": [
+          12,
+          0
+        ],
+        "memory_bytes": 101973491712,
+        "name": "NVIDIA RTX PRO 6000 Blackwell Workstation Edition"
+      }
+    ]
+  },
+  {
+    "cuda": "12.8",
+    "python": "3.11.14 | packaged by conda-forge | (main, Oct 22 2025, 22:46:25) [GCC 14.3.0]",
+    "run_key": "7d7273c3b820dd578663",
+    "torch": "2.9.1+cu128",
+    "torch_devices": [
+      {
+        "compute_capability": [
+          12,
+          0
+        ],
+        "memory_bytes": 25367150592,
+        "name": "NVIDIA RTX PRO 6000 Blackwell Server Edition MIG 1g.24gb"
+      }
+    ]
+  },
+  {
+    "cuda": "12.8",
+    "python": "3.12.11 (main, Jun  4 2025, 08:56:18) [GCC 11.4.0]",
+    "run_key": "8116e196cd579db57606",
+    "torch": "2.8.0+cu128",
+    "torch_devices": [
+      {
+        "compute_capability": [
+          12,
+          0
+        ],
+        "memory_bytes": 25367150592,
+        "name": "NVIDIA RTX PRO 6000 Blackwell Server Edition MIG 1g.24gb"
+      }
+    ]
+  },
+  {
+    "cuda": "12.8",
+    "python": "3.12.11 (main, Jun  4 2025, 08:56:18) [GCC 11.4.0]",
+    "run_key": "33c7ab09f89356f28488",
+    "torch": "2.8.0+cu128",
+    "torch_devices": [
+      {
+        "compute_capability": [
+          8,
+          9
+        ],
+        "memory_bytes": 25252724736,
+        "name": "NVIDIA GeForce RTX 4090"
+      }
+    ]
+  },
+  {
+    "cuda": "12.8",
+    "python": "3.11.14 | packaged by conda-forge | (main, Oct 22 2025, 22:46:25) [GCC 14.3.0]",
+    "run_key": "f26dc45f64d3ce4ac17b",
+    "torch": "2.9.1+cu128",
+    "torch_devices": [
+      {
+        "compute_capability": [
+          12,
+          0
+        ],
+        "memory_bytes": 33687470080,
+        "name": "NVIDIA RTX PRO 4500 Blackwell"
+      }
+    ]
+  },
+  {
+    "cuda": "12.8",
+    "python": "3.11.14 | packaged by conda-forge | (main, Oct 22 2025, 22:46:25) [GCC 14.3.0]",
+    "run_key": "8d37797d9c5e3a8220f9",
+    "torch": "2.9.1+cu128",
+    "torch_devices": [
+      {
+        "compute_capability": [
+          8,
+          6
+        ],
+        "memory_bytes": 47699722240,
+        "name": "NVIDIA A40"
+      }
+    ]
+  },
+  {
+    "cuda": "12.8",
+    "python": "3.11.14 | packaged by conda-forge | (main, Oct 22 2025, 22:46:25) [GCC 14.3.0]",
+    "run_key": "70c39e8ec660b16dce06",
+    "torch": "2.9.1+cu128",
+    "torch_devices": [
+      {
+        "compute_capability": [
+          8,
+          9
+        ],
+        "memory_bytes": 23661248512,
+        "name": "NVIDIA L4"
+      }
+    ]
+  },
+  {
+    "cuda": "12.8",
+    "python": "3.12.11 (main, Jun  4 2025, 08:56:18) [GCC 11.4.0]",
+    "run_key": "ac2825c4f3e0f155cad9",
+    "torch": "2.8.0+cu128",
+    "torch_devices": [
+      {
+        "compute_capability": [
+          12,
+          0
+        ],
+        "memory_bytes": 101975851008,
+        "name": "NVIDIA RTX PRO 6000 Blackwell Server Edition"
+      }
+    ]
+  },
+  {
+    "cuda": "12.8",
+    "python": "3.12.11 (main, Jun  4 2025, 08:56:18) [GCC 11.4.0]",
+    "run_key": "fa458f543033b00db1e6",
+    "torch": "2.8.0+cu128",
+    "torch_devices": [
+      {
+        "compute_capability": [
+          12,
+          0
+        ],
+        "memory_bytes": 101975851008,
+        "name": "NVIDIA RTX PRO 6000 Blackwell Server Edition"
+      }
+    ]
+  },
+  {
+    "cuda": "12.8",
+    "python": "3.11.14 | packaged by conda-forge | (main, Oct 22 2025, 22:46:25) [GCC 14.3.0]",
+    "run_key": "6a7cef32eca7aa5b954d",
+    "torch": "2.9.1+cu128",
+    "torch_devices": [
+      {
+        "compute_capability": [
+          12,
+          0
+        ],
+        "memory_bytes": 25367150592,
+        "name": "NVIDIA RTX PRO 6000 Blackwell Server Edition MIG 1g.24gb"
+      }
+    ]
+  },
+  {
+    "cuda": "12.8",
+    "python": "3.11.14 | packaged by conda-forge | (main, Oct 22 2025, 22:46:25) [GCC 14.3.0]",
+    "run_key": "26ca113853d5e2b952ff",
+    "torch": "2.9.1+cu128",
+    "torch_devices": [
+      {
+        "compute_capability": [
+          12,
+          0
+        ],
+        "memory_bytes": 33687470080,
+        "name": "NVIDIA RTX PRO 4500 Blackwell"
+      }
+    ]
+  },
+  {
+    "cuda": "12.8",
+    "python": "3.11.14 | packaged by conda-forge | (main, Oct 22 2025, 22:46:25) [GCC 14.3.0]",
+    "run_key": "08fb051ccadf0ad9aaff",
+    "torch": "2.9.1+cu128",
+    "torch_devices": [
+      {
+        "compute_capability": [
+          9,
+          0
+        ],
+        "memory_bytes": 99951706112,
+        "name": "NVIDIA H100 NVL"
+      }
+    ]
+  },
+  {
+    "cuda": "12.8",
+    "python": "3.12.11 (main, Jun  4 2025, 08:56:18) [GCC 11.4.0]",
+    "run_key": "16956239de4abf609b2c",
+    "torch": "2.8.0+cu128",
+    "torch_devices": [
+      {
+        "compute_capability": [
+          12,
+          0
+        ],
+        "memory_bytes": 101973491712,
+        "name": "NVIDIA RTX PRO 6000 Blackwell Workstation Edition"
+      }
+    ]
+  },
+  {
+    "cuda": "12.8",
+    "python": "3.11.14 | packaged by conda-forge | (main, Oct 22 2025, 22:46:25) [GCC 14.3.0]",
+    "run_key": "72bfc79cdedacc6853a2",
+    "torch": "2.9.1+cu128",
+    "torch_devices": [
+      {
+        "compute_capability": [
+          9,
+          0
+        ],
+        "memory_bytes": 85019590656,
+        "name": "NVIDIA H100 80GB HBM3"
+      }
+    ]
+  },
+  {
+    "cuda": "12.8",
+    "python": "3.12.11 (main, Jun  4 2025, 08:56:18) [GCC 11.4.0]",
+    "run_key": "06afe2da22ff6677d648",
+    "torch": "2.8.0+cu128",
+    "torch_devices": [
+      {
+        "compute_capability": [
+          12,
+          0
+        ],
+        "memory_bytes": 25367150592,
+        "name": "NVIDIA RTX PRO 6000 Blackwell Server Edition MIG 1g.24gb"
+      }
+    ]
+  },
+  {
+    "cuda": "12.8",
+    "python": "3.11.14 | packaged by conda-forge | (main, Oct 22 2025, 22:46:25) [GCC 14.3.0]",
+    "run_key": "474c6d1fdc7011981697",
+    "torch": "2.9.1+cu128",
+    "torch_devices": [
+      {
+        "compute_capability": [
+          8,
+          0
+        ],
+        "memory_bytes": 85094825984,
+        "name": "NVIDIA A100-SXM4-80GB"
+      }
+    ]
+  },
+  {
+    "cuda": "12.8",
+    "python": "3.11.14 | packaged by conda-forge | (main, Oct 22 2025, 22:46:25) [GCC 14.3.0]",
+    "run_key": "b534a0867a4ca72b27e4",
+    "torch": "2.9.1+cu128",
+    "torch_devices": [
+      {
+        "compute_capability": [
+          8,
+          9
+        ],
+        "memory_bytes": 23661248512,
+        "name": "NVIDIA L4"
+      }
+    ]
+  },
+  {
+    "cuda": "12.8",
+    "python": "3.11.14 | packaged by conda-forge | (main, Oct 22 2025, 22:46:25) [GCC 14.3.0]",
+    "run_key": "8666184bee1a7cc3f6d8",
+    "torch": "2.9.1+cu128",
+    "torch_devices": [
+      {
+        "compute_capability": [
+          12,
+          0
+        ],
+        "memory_bytes": 25367150592,
+        "name": "NVIDIA RTX PRO 6000 Blackwell Server Edition MIG 1g.24gb"
+      }
+    ]
+  },
+  {
+    "cuda": "12.8",
+    "python": "3.11.14 | packaged by conda-forge | (main, Oct 22 2025, 22:46:25) [GCC 14.3.0]",
+    "run_key": "479d3c5212df0dea4568",
+    "torch": "2.9.1+cu128",
+    "torch_devices": [
+      {
+        "compute_capability": [
+          8,
+          9
+        ],
+        "memory_bytes": 23661248512,
+        "name": "NVIDIA L4"
+      }
+    ]
+  },
+  {
+    "cuda": "12.8",
+    "python": "3.11.14 | packaged by conda-forge | (main, Oct 22 2025, 22:46:25) [GCC 14.3.0]",
+    "run_key": "6d6b53d9d10856392c42",
+    "torch": "2.9.1+cu128",
+    "torch_devices": [
+      {
+        "compute_capability": [
+          9,
+          0
+        ],
+        "memory_bytes": 85019590656,
+        "name": "NVIDIA H100 PCIe"
+      }
+    ]
+  },
+  {
+    "cuda": "12.8",
+    "python": "3.12.11 (main, Jun  4 2025, 08:56:18) [GCC 11.4.0]",
+    "run_key": "66b8c0d5b45c52eee9c7",
+    "torch": "2.8.0+cu128",
+    "torch_devices": [
+      {
+        "compute_capability": [
+          12,
+          0
+        ],
+        "memory_bytes": 33689829376,
+        "name": "NVIDIA RTX PRO 4500 Blackwell Server Edition"
+      }
+    ]
+  },
+  {
+    "cuda": "12.8",
+    "python": "3.11.14 | packaged by conda-forge | (main, Oct 22 2025, 22:46:25) [GCC 14.3.0]",
+    "run_key": "21b9f27c25cff7a8e3ae",
+    "torch": "2.9.1+cu128",
+    "torch_devices": [
+      {
+        "compute_capability": [
+          8,
+          9
+        ],
+        "memory_bytes": 50867404800,
+        "name": "NVIDIA RTX 6000 Ada Generation"
+      }
+    ]
+  },
+  {
+    "cuda": "12.8",
+    "python": "3.11.14 | packaged by conda-forge | (main, Oct 22 2025, 22:46:25) [GCC 14.3.0]",
+    "run_key": "bb9b70d028c3b782159c",
+    "torch": "2.9.1+cu128",
+    "torch_devices": [
+      {
+        "compute_capability": [
+          8,
+          9
+        ],
+        "memory_bytes": 50867404800,
+        "name": "NVIDIA RTX 6000 Ada Generation"
+      }
+    ]
+  },
+  {
+    "cuda": "12.8",
+    "python": "3.12.11 (main, Jun  4 2025, 08:56:18) [GCC 11.4.0]",
+    "run_key": "feb3aaba6e401137d25f",
+    "torch": "2.8.0+cu128",
+    "torch_devices": [
+      {
+        "compute_capability": [
+          8,
+          9
+        ],
+        "memory_bytes": 47667740672,
+        "name": "NVIDIA L40S"
+      }
+    ]
+  },
+  {
+    "cuda": "12.8",
+    "python": "3.11.14 | packaged by conda-forge | (main, Oct 22 2025, 22:46:25) [GCC 14.3.0]",
+    "run_key": "19c32264dbe32d852b90",
+    "torch": "2.9.1+cu128",
+    "torch_devices": [
+      {
+        "compute_capability": [
+          8,
+          0
+        ],
+        "memory_bytes": 85094825984,
+        "name": "NVIDIA A100-SXM4-80GB"
+      }
+    ]
+  },
+  {
+    "cuda": "12.8",
+    "python": "3.11.14 | packaged by conda-forge | (main, Oct 22 2025, 22:46:25) [GCC 14.3.0]",
+    "run_key": "c9aeda9b6a8642ef5458",
+    "torch": "2.9.1+cu128",
+    "torch_devices": [
+      {
+        "compute_capability": [
+          8,
+          6
+        ],
+        "memory_bytes": 47699722240,
+        "name": "NVIDIA A40"
+      }
+    ]
+  },
+  {
+    "cuda": "12.8",
+    "python": "3.12.11 (main, Jun  4 2025, 08:56:18) [GCC 11.4.0]",
+    "run_key": "f49dadf498d0b87ac45c",
+    "torch": "2.8.0+cu128",
+    "torch_devices": [
+      {
+        "compute_capability": [
+          12,
+          0
+        ],
+        "memory_bytes": 25367150592,
+        "name": "NVIDIA RTX PRO 6000 Blackwell Server Edition MIG 1g.24gb"
+      }
+    ]
+  },
+  {
+    "cuda": "12.8",
+    "python": "3.11.14 | packaged by conda-forge | (main, Oct 22 2025, 22:46:25) [GCC 14.3.0]",
+    "run_key": "5ac5540214fcce2a63c6",
+    "torch": "2.9.1+cu128",
+    "torch_devices": [
+      {
+        "compute_capability": [
+          12,
+          0
+        ],
+        "memory_bytes": 33689829376,
+        "name": "NVIDIA RTX PRO 4500 Blackwell Server Edition"
+      }
+    ]
+  },
+  {
+    "cuda": "12.8",
+    "python": "3.11.14 | packaged by conda-forge | (main, Oct 22 2025, 22:46:25) [GCC 14.3.0]",
+    "run_key": "a5198336b370236f4561",
+    "torch": "2.9.1+cu128",
+    "torch_devices": [
+      {
+        "compute_capability": [
+          12,
+          0
+        ],
+        "memory_bytes": 50868518912,
+        "name": "NVIDIA RTX PRO 6000 Blackwell Server Edition MIG 2g.48gb"
+      }
+    ]
+  },
+  {
+    "cuda": "12.8",
+    "python": "3.11.14 | packaged by conda-forge | (main, Oct 22 2025, 22:46:25) [GCC 14.3.0]",
+    "run_key": "898afc59a24a71be3a3a",
+    "torch": "2.9.1+cu128",
+    "torch_devices": [
+      {
+        "compute_capability": [
+          8,
+          9
+        ],
+        "memory_bytes": 47667740672,
+        "name": "NVIDIA L40"
+      }
+    ]
+  },
+  {
+    "cuda": "12.8",
+    "python": "3.12.11 (main, Jun  4 2025, 08:56:18) [GCC 11.4.0]",
+    "run_key": "54b835e4cc0b6a0d4d94",
+    "torch": "2.8.0+cu128",
+    "torch_devices": [
+      {
+        "compute_capability": [
+          12,
+          0
+        ],
+        "memory_bytes": 33670758400,
+        "name": "NVIDIA GeForce RTX 5090"
+      }
+    ]
+  },
+  {
+    "cuda": "12.8",
+    "python": "3.11.14 | packaged by conda-forge | (main, Oct 22 2025, 22:46:25) [GCC 14.3.0]",
+    "run_key": "d764dbf43ed29a2d31ad",
+    "torch": "2.9.1+cu128",
+    "torch_devices": [
+      {
+        "compute_capability": [
+          8,
+          6
+        ],
+        "memory_bytes": 25298141184,
+        "name": "NVIDIA GeForce RTX 3090"
+      }
+    ]
+  },
+  {
+    "cuda": "12.8",
+    "python": "3.12.11 (main, Jun  4 2025, 08:56:18) [GCC 11.4.0]",
+    "run_key": "806189b8ee5d5c4e31c4",
+    "torch": "2.8.0+cu128",
+    "torch_devices": [
+      {
+        "compute_capability": [
+          9,
+          0
+        ],
+        "memory_bytes": 85019590656,
+        "name": "NVIDIA H100 80GB HBM3"
+      }
+    ]
+  },
+  {
+    "cuda": "12.8",
+    "python": "3.11.14 | packaged by conda-forge | (main, Oct 22 2025, 22:46:25) [GCC 14.3.0]",
+    "run_key": "faead89d1ae5a100d693",
+    "torch": "2.9.1+cu128",
+    "torch_devices": [
+      {
+        "compute_capability": [
+          9,
+          0
+        ],
+        "memory_bytes": 99951706112,
+        "name": "NVIDIA H100 NVL"
+      }
+    ]
+  },
+  {
+    "cuda": "12.8",
+    "python": "3.12.11 (main, Jun  4 2025, 08:56:18) [GCC 11.4.0]",
+    "run_key": "df830907096a42843483",
+    "torch": "2.8.0+cu128",
+    "torch_devices": [
+      {
+        "compute_capability": [
+          12,
+          0
+        ],
+        "memory_bytes": 25367150592,
+        "name": "NVIDIA RTX PRO 6000 Blackwell Server Edition MIG 1g.24gb"
+      }
+    ]
+  },
+  {
+    "cuda": "12.8",
+    "python": "3.11.14 | packaged by conda-forge | (main, Oct 22 2025, 22:46:25) [GCC 14.3.0]",
+    "run_key": "b3fe60457660b5e0dde6",
+    "torch": "2.9.1+cu128",
+    "torch_devices": [
+      {
+        "compute_capability": [
+          8,
+          9
+        ],
+        "memory_bytes": 25252724736,
+        "name": "NVIDIA GeForce RTX 4090"
+      }
+    ]
+  },
+  {
+    "cuda": "12.8",
+    "python": "3.11.14 | packaged by conda-forge | (main, Oct 22 2025, 22:46:25) [GCC 14.3.0]",
+    "run_key": "747d684aa9b1eb02f3c5",
+    "torch": "2.9.1+cu128",
+    "torch_devices": [
+      {
+        "compute_capability": [
+          12,
+          0
+        ],
+        "memory_bytes": 101973491712,
+        "name": "NVIDIA RTX PRO 6000 Blackwell Workstation Edition"
+      }
+    ]
+  },
+  {
+    "cuda": "12.8",
+    "python": "3.11.14 | packaged by conda-forge | (main, Oct 22 2025, 22:46:25) [GCC 14.3.0]",
+    "run_key": "c839b320172374a0de89",
+    "torch": "2.9.1+cu128",
+    "torch_devices": [
+      {
+        "compute_capability": [
+          9,
+          0
+        ],
+        "memory_bytes": 85019590656,
+        "name": "NVIDIA H100 80GB HBM3"
+      }
+    ]
+  },
+  {
+    "cuda": "12.8",
+    "python": "3.11.14 | packaged by conda-forge | (main, Oct 22 2025, 22:46:25) [GCC 14.3.0]",
+    "run_key": "b0b09e6c8727d97e6a5f",
+    "torch": "2.9.1+cu128",
+    "torch_devices": [
+      {
+        "compute_capability": [
+          9,
+          0
+        ],
+        "memory_bytes": 99951706112,
+        "name": "NVIDIA H100 NVL"
+      }
+    ]
+  },
+  {
+    "cuda": "12.8",
+    "python": "3.11.14 | packaged by conda-forge | (main, Oct 22 2025, 22:46:25) [GCC 14.3.0]",
+    "run_key": "78ab0edb3f94925e630a",
+    "torch": "2.9.1+cu128",
+    "torch_devices": [
+      {
+        "compute_capability": [
+          8,
+          9
+        ],
+        "memory_bytes": 25252724736,
+        "name": "NVIDIA GeForce RTX 4090"
+      }
+    ]
+  },
+  {
+    "cuda": "12.8",
+    "python": "3.11.14 | packaged by conda-forge | (main, Oct 22 2025, 22:46:25) [GCC 14.3.0]",
+    "run_key": "bddd1c0634c1f16d8fe2",
+    "torch": "2.9.1+cu128",
+    "torch_devices": [
+      {
+        "compute_capability": [
+          8,
+          0
+        ],
+        "memory_bytes": 85094825984,
+        "name": "NVIDIA A100 80GB PCIe"
+      }
+    ]
+  },
+  {
+    "cuda": "12.8",
+    "python": "3.12.11 (main, Jun  4 2025, 08:56:18) [GCC 11.4.0]",
+    "run_key": "fe62162ae3c211c47ba1",
+    "torch": "2.8.0+cu128",
+    "torch_devices": [
+      {
+        "compute_capability": [
+          12,
+          0
+        ],
+        "memory_bytes": 25367150592,
+        "name": "NVIDIA RTX PRO 6000 Blackwell Server Edition MIG 1g.24gb"
+      }
+    ]
+  },
+  {
+    "cuda": "12.8",
+    "python": "3.12.11 (main, Jun  4 2025, 08:56:18) [GCC 11.4.0]",
+    "run_key": "faff8681ede8d47413c9",
+    "torch": "2.8.0+cu128",
+    "torch_devices": [
+      {
+        "compute_capability": [
+          12,
+          0
+        ],
+        "memory_bytes": 33687470080,
+        "name": "NVIDIA RTX PRO 4500 Blackwell"
+      }
+    ]
+  },
+  {
+    "cuda": "12.8",
+    "python": "3.11.14 | packaged by conda-forge | (main, Oct 22 2025, 22:46:25) [GCC 14.3.0]",
+    "run_key": "b4680659b3b949def94c",
+    "torch": "2.9.1+cu128",
+    "torch_devices": [
+      {
+        "compute_capability": [
+          8,
+          0
+        ],
+        "memory_bytes": 85094825984,
+        "name": "NVIDIA A100 80GB PCIe"
+      }
+    ]
+  },
+  {
+    "cuda": "12.8",
+    "python": "3.11.14 | packaged by conda-forge | (main, Oct 22 2025, 22:46:25) [GCC 14.3.0]",
+    "run_key": "093a1831de5c5e3de78b",
+    "torch": "2.9.1+cu128",
+    "torch_devices": [
+      {
+        "compute_capability": [
+          8,
+          9
+        ],
+        "memory_bytes": 23661248512,
+        "name": "NVIDIA L4"
+      }
+    ]
+  },
+  {
+    "cuda": "12.8",
+    "python": "3.11.14 | packaged by conda-forge | (main, Oct 22 2025, 22:46:25) [GCC 14.3.0]",
+    "run_key": "b39ada97618665a228a5",
+    "torch": "2.9.1+cu128",
+    "torch_devices": [
+      {
+        "compute_capability": [
+          12,
+          0
+        ],
+        "memory_bytes": 101975851008,
+        "name": "NVIDIA RTX PRO 6000 Blackwell Server Edition"
+      }
+    ]
+  },
+  {
+    "cuda": "12.8",
+    "python": "3.11.14 | packaged by conda-forge | (main, Oct 22 2025, 22:46:25) [GCC 14.3.0]",
+    "run_key": "8bc313ff0b0f1a2cd1a2",
+    "torch": "2.9.1+cu128",
+    "torch_devices": [
+      {
+        "compute_capability": [
+          12,
+          0
+        ],
+        "memory_bytes": 33670758400,
+        "name": "NVIDIA GeForce RTX 5090"
+      }
+    ]
+  },
+  {
+    "cuda": "12.8",
+    "python": "3.12.11 (main, Jun  4 2025, 08:56:18) [GCC 11.4.0]",
+    "run_key": "e612b29168d1f6e2f377",
+    "torch": "2.8.0+cu128",
+    "torch_devices": [
+      {
+        "compute_capability": [
+          12,
+          0
+        ],
+        "memory_bytes": 25367150592,
+        "name": "NVIDIA RTX PRO 6000 Blackwell Server Edition MIG 1g.24gb"
+      }
+    ]
+  },
+  {
+    "cuda": "12.8",
+    "python": "3.11.14 | packaged by conda-forge | (main, Oct 22 2025, 22:46:25) [GCC 14.3.0]",
+    "run_key": "2534e6ad5e1a2bb1ce5c",
+    "torch": "2.9.1+cu128",
+    "torch_devices": [
+      {
+        "compute_capability": [
+          9,
+          0
+        ],
+        "memory_bytes": 85019590656,
+        "name": "NVIDIA H100 80GB HBM3"
+      }
+    ]
+  },
+  {
+    "cuda": "12.8",
+    "python": "3.11.14 | packaged by conda-forge | (main, Oct 22 2025, 22:46:25) [GCC 14.3.0]",
+    "run_key": "58653fc74345b8489334",
+    "torch": "2.9.1+cu128",
+    "torch_devices": [
+      {
+        "compute_capability": [
+          12,
+          0
+        ],
+        "memory_bytes": 101975851008,
+        "name": "NVIDIA RTX PRO 6000 Blackwell Server Edition"
+      }
+    ]
+  },
+  {
+    "cuda": "12.8",
+    "python": "3.12.11 (main, Jun  4 2025, 08:56:18) [GCC 11.4.0]",
+    "run_key": "67ef467c2afd03799676",
+    "torch": "2.8.0+cu128",
+    "torch_devices": [
+      {
+        "compute_capability": [
+          12,
+          0
+        ],
+        "memory_bytes": 33687470080,
+        "name": "NVIDIA RTX PRO 4500 Blackwell"
+      }
+    ]
+  },
+  {
+    "cuda": "12.8",
+    "python": "3.11.14 | packaged by conda-forge | (main, Oct 22 2025, 22:46:25) [GCC 14.3.0]",
+    "run_key": "d5a5787fe272c4b6999b",
+    "torch": "2.9.1+cu128",
+    "torch_devices": [
+      {
+        "compute_capability": [
+          8,
+          9
+        ],
+        "memory_bytes": 25252724736,
+        "name": "NVIDIA GeForce RTX 4090"
+      }
+    ]
+  },
+  {
+    "cuda": "12.8",
+    "python": "3.11.14 | packaged by conda-forge | (main, Oct 22 2025, 22:46:25) [GCC 14.3.0]",
+    "run_key": "fa487c5685a73b36fd5a",
+    "torch": "2.9.1+cu128",
+    "torch_devices": [
+      {
+        "compute_capability": [
+          12,
+          0
+        ],
+        "memory_bytes": 25367150592,
+        "name": "NVIDIA RTX PRO 6000 Blackwell Server Edition MIG 1g.24gb"
+      }
+    ]
+  },
+  {
+    "cuda": "12.8",
+    "python": "3.11.14 | packaged by conda-forge | (main, Oct 22 2025, 22:46:25) [GCC 14.3.0]",
+    "run_key": "29b00a2e31fbb0ce9eb5",
+    "torch": "2.9.1+cu128",
+    "torch_devices": [
+      {
+        "compute_capability": [
+          8,
+          0
+        ],
+        "memory_bytes": 85094825984,
+        "name": "NVIDIA A100 80GB PCIe"
+      }
+    ]
+  },
+  {
+    "cuda": "12.8",
+    "python": "3.12.11 (main, Jun  4 2025, 08:56:18) [GCC 11.4.0]",
+    "run_key": "059066295af963e21bf0",
+    "torch": "2.8.0+cu128",
+    "torch_devices": [
+      {
+        "compute_capability": [
+          9,
+          0
+        ],
+        "memory_bytes": 85019590656,
+        "name": "NVIDIA H100 80GB HBM3"
+      }
+    ]
+  },
+  {
+    "cuda": "12.8",
+    "python": "3.12.11 (main, Jun  4 2025, 08:56:18) [GCC 11.4.0]",
+    "run_key": "82a8579db1846b855b79",
+    "torch": "2.8.0+cu128",
+    "torch_devices": [
+      {
+        "compute_capability": [
+          12,
+          0
+        ],
+        "memory_bytes": 25367150592,
+        "name": "NVIDIA RTX PRO 6000 Blackwell Server Edition MIG 1g.24gb"
+      }
+    ]
+  },
+  {
+    "cuda": "12.8",
+    "python": "3.12.11 (main, Jun  4 2025, 08:56:18) [GCC 11.4.0]",
+    "run_key": "8be299c30fd61c779c7f",
+    "torch": "2.8.0+cu128",
+    "torch_devices": [
+      {
+        "compute_capability": [
+          12,
+          0
+        ],
+        "memory_bytes": 33689829376,
+        "name": "NVIDIA RTX PRO 4500 Blackwell Server Edition"
+      }
+    ]
+  },
+  {
+    "cuda": "12.8",
+    "python": "3.12.11 (main, Jun  4 2025, 08:56:18) [GCC 11.4.0]",
+    "run_key": "e8797992da653a3f24bd",
+    "torch": "2.8.0+cu128",
+    "torch_devices": [
+      {
+        "compute_capability": [
+          12,
+          0
+        ],
+        "memory_bytes": 33689829376,
+        "name": "NVIDIA RTX PRO 4500 Blackwell Server Edition"
+      }
+    ]
+  },
+  {
+    "cuda": "12.8",
+    "python": "3.12.11 (main, Jun  4 2025, 08:56:18) [GCC 11.4.0]",
+    "run_key": "9381522dddbfea68c209",
+    "torch": "2.8.0+cu128",
+    "torch_devices": [
+      {
+        "compute_capability": [
+          12,
+          0
+        ],
+        "memory_bytes": 33670758400,
+        "name": "NVIDIA GeForce RTX 5090"
+      }
+    ]
+  },
+  {
+    "cuda": "12.8",
+    "python": "3.12.11 (main, Jun  4 2025, 08:56:18) [GCC 11.4.0]",
+    "run_key": "f54f9b347788a84c958b",
+    "torch": "2.8.0+cu128",
+    "torch_devices": [
+      {
+        "compute_capability": [
+          12,
+          0
+        ],
+        "memory_bytes": 33670758400,
+        "name": "NVIDIA GeForce RTX 5090"
+      }
+    ]
+  },
+  {
+    "cuda": "12.8",
+    "python": "3.12.11 (main, Jun  4 2025, 08:56:18) [GCC 11.4.0]",
+    "run_key": "30adf0ce8f30d33eddf2",
+    "torch": "2.8.0+cu128",
+    "torch_devices": [
+      {
+        "compute_capability": [
+          12,
+          0
+        ],
+        "memory_bytes": 50868518912,
+        "name": "NVIDIA RTX PRO 6000 Blackwell Server Edition MIG 2g.48gb"
+      }
+    ]
+  },
+  {
+    "cuda": "12.8",
+    "python": "3.12.11 (main, Jun  4 2025, 08:56:18) [GCC 11.4.0]",
+    "run_key": "c6b7a7df7e60ce0875f9",
+    "torch": "2.8.0+cu128",
+    "torch_devices": [
+      {
+        "compute_capability": [
+          8,
+          9
+        ],
+        "memory_bytes": 47667740672,
+        "name": "NVIDIA L40S"
+      }
+    ]
+  },
+  {
+    "cuda": "12.8",
+    "python": "3.11.14 | packaged by conda-forge | (main, Oct 22 2025, 22:46:25) [GCC 14.3.0]",
+    "run_key": "7681966e64915d01819d",
+    "torch": "2.9.1+cu128",
+    "torch_devices": [
+      {
+        "compute_capability": [
+          12,
+          0
+        ],
+        "memory_bytes": 33670758400,
+        "name": "NVIDIA GeForce RTX 5090"
+      }
+    ]
+  },
+  {
+    "cuda": "12.8",
+    "python": "3.12.11 (main, Jun  4 2025, 08:56:18) [GCC 11.4.0]",
+    "run_key": "66c62bd205905c8fcf90",
+    "torch": "2.8.0+cu128",
+    "torch_devices": [
+      {
+        "compute_capability": [
+          12,
+          0
+        ],
+        "memory_bytes": 25367150592,
+        "name": "NVIDIA RTX PRO 6000 Blackwell Server Edition MIG 1g.24gb"
+      }
+    ]
+  },
+  {
+    "cuda": "12.8",
+    "python": "3.12.11 (main, Jun  4 2025, 08:56:18) [GCC 11.4.0]",
+    "run_key": "ea2e1d525181c980ea22",
+    "torch": "2.8.0+cu128",
+    "torch_devices": [
+      {
+        "compute_capability": [
+          8,
+          9
+        ],
+        "memory_bytes": 25252724736,
+        "name": "NVIDIA GeForce RTX 4090"
+      }
+    ]
+  },
+  {
+    "cuda": "12.8",
+    "python": "3.12.11 (main, Jun  4 2025, 08:56:18) [GCC 11.4.0]",
+    "run_key": "fc3d16c138690b40a324",
+    "torch": "2.8.0+cu128",
+    "torch_devices": [
+      {
+        "compute_capability": [
+          12,
+          0
+        ],
+        "memory_bytes": 33687470080,
+        "name": "NVIDIA RTX PRO 4500 Blackwell"
+      }
+    ]
+  },
+  {
+    "cuda": "12.8",
+    "python": "3.12.11 (main, Jun  4 2025, 08:56:18) [GCC 11.4.0]",
+    "run_key": "d06e3a4f23bdd5dcfb22",
+    "torch": "2.8.0+cu128",
+    "torch_devices": [
+      {
+        "compute_capability": [
+          8,
+          9
+        ],
+        "memory_bytes": 23651745792,
+        "name": "NVIDIA GeForce RTX 4090"
+      }
+    ]
+  },
+  {
+    "cuda": "12.8",
+    "python": "3.11.14 | packaged by conda-forge | (main, Oct 22 2025, 22:46:25) [GCC 14.3.0]",
+    "run_key": "8065da61ef27741b0f85",
+    "torch": "2.9.1+cu128",
+    "torch_devices": [
+      {
+        "compute_capability": [
+          8,
+          0
+        ],
+        "memory_bytes": 85094825984,
+        "name": "NVIDIA A100-SXM4-80GB"
+      }
+    ]
+  },
+  {
+    "cuda": "12.8",
+    "python": "3.11.14 | packaged by conda-forge | (main, Oct 22 2025, 22:46:25) [GCC 14.3.0]",
+    "run_key": "71e094428d1375c3aa0b",
+    "torch": "2.9.1+cu128",
+    "torch_devices": [
+      {
+        "compute_capability": [
+          8,
+          9
+        ],
+        "memory_bytes": 23661248512,
+        "name": "NVIDIA L4"
+      }
+    ]
+  },
+  {
+    "cuda": "12.8",
+    "python": "3.11.14 | packaged by conda-forge | (main, Oct 22 2025, 22:46:25) [GCC 14.3.0]",
+    "run_key": "59bae43f93d839c651db",
+    "torch": "2.9.1+cu128",
+    "torch_devices": [
+      {
+        "compute_capability": [
+          8,
+          0
+        ],
+        "memory_bytes": 85094825984,
+        "name": "NVIDIA A100-SXM4-80GB"
+      }
+    ]
+  },
+  {
+    "cuda": "12.8",
+    "python": "3.12.11 (main, Jun  4 2025, 08:56:18) [GCC 11.4.0]",
+    "run_key": "3b756aa7a0ee4d13e42b",
+    "torch": "2.8.0+cu128",
+    "torch_devices": [
+      {
+        "compute_capability": [
+          12,
+          0
+        ],
+        "memory_bytes": 50868518912,
+        "name": "NVIDIA RTX PRO 6000 Blackwell Server Edition MIG 2g.48gb"
+      }
+    ]
+  },
+  {
+    "cuda": "12.8",
+    "python": "3.11.14 | packaged by conda-forge | (main, Oct 22 2025, 22:46:25) [GCC 14.3.0]",
+    "run_key": "dedca202710d9dd5195e",
+    "torch": "2.9.1+cu128",
+    "torch_devices": [
+      {
+        "compute_capability": [
+          12,
+          0
+        ],
+        "memory_bytes": 33687470080,
+        "name": "NVIDIA RTX PRO 4500 Blackwell"
+      }
+    ]
+  },
+  {
+    "cuda": "12.8",
+    "python": "3.11.14 | packaged by conda-forge | (main, Oct 22 2025, 22:46:25) [GCC 14.3.0]",
+    "run_key": "2718fc96d34de6d4ef59",
+    "torch": "2.9.1+cu128",
+    "torch_devices": [
+      {
+        "compute_capability": [
+          8,
+          9
+        ],
+        "memory_bytes": 20991901696,
+        "name": "NVIDIA RTX 4000 Ada Generation"
+      }
+    ]
+  },
+  {
+    "cuda": "12.8",
+    "python": "3.11.14 | packaged by conda-forge | (main, Oct 22 2025, 22:46:25) [GCC 14.3.0]",
+    "run_key": "70e3bb6b26fdbc39f552",
+    "torch": "2.9.1+cu128",
+    "torch_devices": [
+      {
+        "compute_capability": [
+          8,
+          0
+        ],
+        "memory_bytes": 85094825984,
+        "name": "NVIDIA A100 80GB PCIe"
+      }
+    ]
+  },
+  {
+    "cuda": "12.8",
+    "python": "3.11.14 | packaged by conda-forge | (main, Oct 22 2025, 22:46:25) [GCC 14.3.0]",
+    "run_key": "47fa732f6b7ecbe431dd",
+    "torch": "2.9.1+cu128",
+    "torch_devices": [
+      {
+        "compute_capability": [
+          8,
+          9
+        ],
+        "memory_bytes": 50867404800,
+        "name": "NVIDIA RTX 6000 Ada Generation"
+      }
+    ]
+  },
+  {
+    "cuda": "12.8",
+    "python": "3.11.14 | packaged by conda-forge | (main, Oct 22 2025, 22:46:25) [GCC 14.3.0]",
+    "run_key": "624dd32297fc028aca07",
+    "torch": "2.9.1+cu128",
+    "torch_devices": [
+      {
+        "compute_capability": [
+          8,
+          9
+        ],
+        "memory_bytes": 25252724736,
+        "name": "NVIDIA GeForce RTX 4090"
+      }
+    ]
+  },
+  {
+    "cuda": "12.8",
+    "python": "3.11.14 | packaged by conda-forge | (main, Oct 22 2025, 22:46:25) [GCC 14.3.0]",
+    "run_key": "69cff7ca5d19115c46b3",
+    "torch": "2.9.1+cu128",
+    "torch_devices": [
+      {
+        "compute_capability": [
+          8,
+          9
+        ],
+        "memory_bytes": 25252724736,
+        "name": "NVIDIA GeForce RTX 4090"
+      }
+    ]
+  },
+  {
+    "cuda": "12.8",
+    "python": "3.11.14 | packaged by conda-forge | (main, Oct 22 2025, 22:46:25) [GCC 14.3.0]",
+    "run_key": "a3c9f8631861a4cf9d1d",
+    "torch": "2.9.1+cu128",
+    "torch_devices": [
+      {
+        "compute_capability": [
+          8,
+          0
+        ],
+        "memory_bytes": 85094825984,
+        "name": "NVIDIA A100-SXM4-80GB"
+      }
+    ]
+  },
+  {
+    "cuda": "12.8",
+    "python": "3.12.11 (main, Jun  4 2025, 08:56:18) [GCC 11.4.0]",
+    "run_key": "8e6e25bef9486c052300",
+    "torch": "2.8.0+cu128",
+    "torch_devices": [
+      {
+        "compute_capability": [
+          8,
+          9
+        ],
+        "memory_bytes": 25252724736,
+        "name": "NVIDIA GeForce RTX 4090"
+      }
+    ]
+  },
+  {
+    "cuda": "12.8",
+    "python": "3.12.11 (main, Jun  4 2025, 08:56:18) [GCC 11.4.0]",
+    "run_key": "659d0a07e2dd43140ca8",
+    "torch": "2.8.0+cu128",
+    "torch_devices": [
+      {
+        "compute_capability": [
+          12,
+          0
+        ],
+        "memory_bytes": 25367150592,
+        "name": "NVIDIA RTX PRO 6000 Blackwell Server Edition MIG 1g.24gb"
+      }
+    ]
+  },
+  {
+    "cuda": "12.8",
+    "python": "3.12.11 (main, Jun  4 2025, 08:56:18) [GCC 11.4.0]",
+    "run_key": "d36d2e88563d29542dc4",
+    "torch": "2.8.0+cu128",
+    "torch_devices": [
+      {
+        "compute_capability": [
+          8,
+          6
+        ],
+        "memory_bytes": 25298141184,
+        "name": "NVIDIA GeForce RTX 3090"
+      }
+    ]
+  },
+  {
+    "cuda": "12.8",
+    "python": "3.11.14 | packaged by conda-forge | (main, Oct 22 2025, 22:46:25) [GCC 14.3.0]",
+    "run_key": "6598e4f3444191974e4d",
+    "torch": "2.9.1+cu128",
+    "torch_devices": [
+      {
+        "compute_capability": [
+          12,
+          0
+        ],
+        "memory_bytes": 50868518912,
+        "name": "NVIDIA RTX PRO 6000 Blackwell Server Edition MIG 2g.48gb"
+      }
+    ]
+  },
+  {
+    "cuda": "12.8",
+    "python": "3.12.11 (main, Jun  4 2025, 08:56:18) [GCC 11.4.0]",
+    "run_key": "0003c7ee5846a3efa298",
+    "torch": "2.8.0+cu128",
+    "torch_devices": [
+      {
+        "compute_capability": [
+          12,
+          0
+        ],
+        "memory_bytes": 25367150592,
+        "name": "NVIDIA RTX PRO 6000 Blackwell Server Edition MIG 1g.24gb"
+      }
+    ]
+  },
+  {
+    "cuda": "12.8",
+    "python": "3.12.11 (main, Jun  4 2025, 08:56:18) [GCC 11.4.0]",
+    "run_key": "e7e0e1489209b3a37aa0",
+    "torch": "2.8.0+cu128",
+    "torch_devices": [
+      {
+        "compute_capability": [
+          8,
+          9
+        ],
+        "memory_bytes": 25252724736,
+        "name": "NVIDIA GeForce RTX 4090"
+      }
+    ]
+  },
+  {
+    "cuda": "12.8",
+    "python": "3.12.11 (main, Jun  4 2025, 08:56:18) [GCC 11.4.0]",
+    "run_key": "4d349da40b131e3a10fd",
+    "torch": "2.8.0+cu128",
+    "torch_devices": [
+      {
+        "compute_capability": [
+          8,
+          9
+        ],
+        "memory_bytes": 25252724736,
+        "name": "NVIDIA GeForce RTX 4090"
+      }
+    ]
+  },
+  {
+    "cuda": "12.8",
+    "python": "3.12.11 (main, Jun  4 2025, 08:56:18) [GCC 11.4.0]",
+    "run_key": "760c88809d07c4a199dd",
+    "torch": "2.8.0+cu128",
+    "torch_devices": [
+      {
+        "compute_capability": [
+          12,
+          0
+        ],
+        "memory_bytes": 33687470080,
+        "name": "NVIDIA RTX PRO 4500 Blackwell"
+      }
+    ]
+  },
+  {
+    "cuda": "12.8",
+    "python": "3.11.14 | packaged by conda-forge | (main, Oct 22 2025, 22:46:25) [GCC 14.3.0]",
+    "run_key": "680f20f9c99b4cd71938",
+    "torch": "2.9.1+cu128",
+    "torch_devices": [
+      {
+        "compute_capability": [
+          12,
+          0
+        ],
+        "memory_bytes": 101973491712,
+        "name": "NVIDIA RTX PRO 6000 Blackwell Workstation Edition"
+      }
+    ]
+  },
+  {
+    "cuda": "12.8",
+    "python": "3.12.11 (main, Jun  4 2025, 08:56:18) [GCC 11.4.0]",
+    "run_key": "15805cb605c5107827c9",
+    "torch": "2.8.0+cu128",
+    "torch_devices": [
+      {
+        "compute_capability": [
+          12,
+          0
+        ],
+        "memory_bytes": 33687470080,
+        "name": "NVIDIA RTX PRO 4500 Blackwell"
+      }
+    ]
+  },
+  {
+    "cuda": "12.8",
+    "python": "3.12.11 (main, Jun  4 2025, 08:56:18) [GCC 11.4.0]",
+    "run_key": "b17fd120fc0e5528c92d",
+    "torch": "2.8.0+cu128",
+    "torch_devices": [
+      {
+        "compute_capability": [
+          8,
+          6
+        ],
+        "memory_bytes": 25285623808,
+        "name": "NVIDIA RTX A5000"
+      }
+    ]
+  },
+  {
+    "cuda": "12.8",
+    "python": "3.11.14 | packaged by conda-forge | (main, Oct 22 2025, 22:46:25) [GCC 14.3.0]",
+    "run_key": "4ea57ed756faa77ea200",
+    "torch": "2.9.1+cu128",
+    "torch_devices": [
+      {
+        "compute_capability": [
+          12,
+          0
+        ],
+        "memory_bytes": 33670758400,
+        "name": "NVIDIA GeForce RTX 5090"
+      }
+    ]
+  },
+  {
+    "cuda": "12.8",
+    "python": "3.11.14 | packaged by conda-forge | (main, Oct 22 2025, 22:46:25) [GCC 14.3.0]",
+    "run_key": "4be3e1729c1ca4ab06db",
+    "torch": "2.9.1+cu128",
+    "torch_devices": [
+      {
+        "compute_capability": [
+          9,
+          0
+        ],
+        "memory_bytes": 85019590656,
+        "name": "NVIDIA H100 80GB HBM3"
+      }
+    ]
+  },
+  {
+    "cuda": "12.8",
+    "python": "3.12.11 (main, Jun  4 2025, 08:56:18) [GCC 11.4.0]",
+    "run_key": "9c7ca4f6addce3b9f350",
+    "torch": "2.8.0+cu128",
+    "torch_devices": [
+      {
+        "compute_capability": [
+          12,
+          0
+        ],
+        "memory_bytes": 33687470080,
+        "name": "NVIDIA RTX PRO 4500 Blackwell"
+      }
+    ]
+  },
+  {
+    "cuda": "12.8",
+    "python": "3.12.11 (main, Jun  4 2025, 08:56:18) [GCC 11.4.0]",
+    "run_key": "78763225527ebd83a3bb",
+    "torch": "2.8.0+cu128",
+    "torch_devices": [
+      {
+        "compute_capability": [
+          12,
+          0
+        ],
+        "memory_bytes": 33687470080,
+        "name": "NVIDIA RTX PRO 4500 Blackwell"
+      }
+    ]
+  },
+  {
+    "cuda": "12.8",
+    "python": "3.11.14 | packaged by conda-forge | (main, Oct 22 2025, 22:46:25) [GCC 14.3.0]",
+    "run_key": "eb2ca3f00e38cdf961b6",
+    "torch": "2.9.1+cu128",
+    "torch_devices": [
+      {
+        "compute_capability": [
+          12,
+          0
+        ],
+        "memory_bytes": 33687470080,
+        "name": "NVIDIA RTX PRO 4500 Blackwell"
+      }
+    ]
+  },
+  {
+    "cuda": "12.8",
+    "python": "3.11.14 | packaged by conda-forge | (main, Oct 22 2025, 22:46:25) [GCC 14.3.0]",
+    "run_key": "918c235607a9ae9e06c1",
+    "torch": "2.9.1+cu128",
+    "torch_devices": [
+      {
+        "compute_capability": [
+          8,
+          0
+        ],
+        "memory_bytes": 85094825984,
+        "name": "NVIDIA A100 80GB PCIe"
+      }
+    ]
+  },
+  {
+    "cuda": "12.8",
+    "python": "3.12.11 (main, Jun  4 2025, 08:56:18) [GCC 11.4.0]",
+    "run_key": "b45be43b87711aba314f",
+    "torch": "2.8.0+cu128",
+    "torch_devices": [
+      {
+        "compute_capability": [
+          8,
+          9
+        ],
+        "memory_bytes": 23661248512,
+        "name": "NVIDIA L4"
+      }
+    ]
+  },
+  {
+    "cuda": "12.8",
+    "python": "3.12.11 (main, Jun  4 2025, 08:56:18) [GCC 11.4.0]",
+    "run_key": "fa21f181c9fd48668f69",
+    "torch": "2.8.0+cu128",
+    "torch_devices": [
+      {
+        "compute_capability": [
+          8,
+          9
+        ],
+        "memory_bytes": 47667740672,
+        "name": "NVIDIA L40S"
+      }
+    ]
+  },
+  {
+    "cuda": "12.8",
+    "python": "3.11.14 | packaged by conda-forge | (main, Oct 22 2025, 22:46:25) [GCC 14.3.0]",
+    "run_key": "b66e0de1ab9646382c27",
+    "torch": "2.9.1+cu128",
+    "torch_devices": [
+      {
+        "compute_capability": [
+          8,
+          0
+        ],
+        "memory_bytes": 85094825984,
+        "name": "NVIDIA A100-SXM4-80GB"
+      }
+    ]
+  },
+  {
+    "cuda": "12.8",
+    "python": "3.11.14 | packaged by conda-forge | (main, Oct 22 2025, 22:46:25) [GCC 14.3.0]",
+    "run_key": "99f2225ecca7b880e377",
+    "torch": "2.9.1+cu128",
+    "torch_devices": [
+      {
+        "compute_capability": [
+          12,
+          0
+        ],
+        "memory_bytes": 101973491712,
+        "name": "NVIDIA RTX PRO 6000 Blackwell Workstation Edition"
+      }
+    ]
+  },
+  {
+    "cuda": "12.8",
+    "python": "3.12.11 (main, Jun  4 2025, 08:56:18) [GCC 11.4.0]",
+    "run_key": "15e36a9a5185b13b61f7",
+    "torch": "2.8.0+cu128",
+    "torch_devices": [
+      {
+        "compute_capability": [
+          8,
+          9
+        ],
+        "memory_bytes": 25252724736,
+        "name": "NVIDIA GeForce RTX 4090"
+      }
+    ]
+  },
+  {
+    "cuda": "12.8",
+    "python": "3.12.11 (main, Jun  4 2025, 08:56:18) [GCC 11.4.0]",
+    "run_key": "b98e3149dfad5197ba70",
+    "torch": "2.8.0+cu128",
+    "torch_devices": [
+      {
+        "compute_capability": [
+          8,
+          9
+        ],
+        "memory_bytes": 47667740672,
+        "name": "NVIDIA L40S"
+      }
+    ]
+  },
+  {
+    "cuda": "12.8",
+    "python": "3.12.11 (main, Jun  4 2025, 08:56:18) [GCC 11.4.0]",
+    "run_key": "fbeacf582e4b6678b5df",
+    "torch": "2.8.0+cu128",
+    "torch_devices": [
+      {
+        "compute_capability": [
+          8,
+          9
+        ],
+        "memory_bytes": 47667740672,
+        "name": "NVIDIA L40S"
+      }
+    ]
+  },
+  {
+    "cuda": "12.8",
+    "python": "3.11.14 | packaged by conda-forge | (main, Oct 22 2025, 22:46:25) [GCC 14.3.0]",
+    "run_key": "4b4971f45b14ee9a79ea",
+    "torch": "2.9.1+cu128",
+    "torch_devices": [
+      {
+        "compute_capability": [
+          8,
+          9
+        ],
+        "memory_bytes": 25252724736,
+        "name": "NVIDIA GeForce RTX 4090"
+      }
+    ]
+  },
+  {
+    "cuda": "12.8",
+    "python": "3.12.11 (main, Jun  4 2025, 08:56:18) [GCC 11.4.0]",
+    "run_key": "049ec5c5bd225353b4e3",
+    "torch": "2.8.0+cu128",
+    "torch_devices": [
+      {
+        "compute_capability": [
+          12,
+          0
+        ],
+        "memory_bytes": 33670758400,
+        "name": "NVIDIA GeForce RTX 5090"
+      }
+    ]
+  },
+  {
+    "cuda": "12.8",
+    "python": "3.11.14 | packaged by conda-forge | (main, Oct 22 2025, 22:46:25) [GCC 14.3.0]",
+    "run_key": "adc83cb851072940b3bb",
+    "torch": "2.9.1+cu128",
+    "torch_devices": [
+      {
+        "compute_capability": [
+          8,
+          9
+        ],
+        "memory_bytes": 25252724736,
+        "name": "NVIDIA GeForce RTX 4090"
+      }
+    ]
+  },
+  {
+    "cuda": "12.8",
+    "python": "3.12.11 (main, Jun  4 2025, 08:56:18) [GCC 11.4.0]",
+    "run_key": "49800699bd3d6d343527",
+    "torch": "2.8.0+cu128",
+    "torch_devices": [
+      {
+        "compute_capability": [
+          12,
+          0
+        ],
+        "memory_bytes": 33689829376,
+        "name": "NVIDIA RTX PRO 4500 Blackwell Server Edition"
+      }
+    ]
+  },
+  {
+    "cuda": "12.8",
+    "python": "3.12.11 (main, Jun  4 2025, 08:56:18) [GCC 11.4.0]",
+    "run_key": "cf771f1bb6581de7c7ed",
+    "torch": "2.8.0+cu128",
+    "torch_devices": [
+      {
+        "compute_capability": [
+          9,
+          0
+        ],
+        "memory_bytes": 85019590656,
+        "name": "NVIDIA H100 80GB HBM3"
+      }
+    ]
+  },
+  {
+    "cuda": "12.8",
+    "python": "3.11.14 | packaged by conda-forge | (main, Oct 22 2025, 22:46:25) [GCC 14.3.0]",
+    "run_key": "72054faa27ca7f99eb68",
+    "torch": "2.9.1+cu128",
+    "torch_devices": [
+      {
+        "compute_capability": [
+          12,
+          0
+        ],
+        "memory_bytes": 101973491712,
+        "name": "NVIDIA RTX PRO 6000 Blackwell Workstation Edition"
+      }
+    ]
+  },
+  {
+    "cuda": "12.8",
+    "python": "3.12.11 (main, Jun  4 2025, 08:56:18) [GCC 11.4.0]",
+    "run_key": "2bbac56e18ee85a04ced",
+    "torch": "2.8.0+cu128",
+    "torch_devices": [
+      {
+        "compute_capability": [
+          8,
+          6
+        ],
+        "memory_bytes": 25298141184,
+        "name": "NVIDIA GeForce RTX 3090"
+      }
+    ]
+  },
+  {
+    "cuda": "12.8",
+    "python": "3.11.14 | packaged by conda-forge | (main, Oct 22 2025, 22:46:25) [GCC 14.3.0]",
+    "run_key": "4cc5f45c2704e37912c4",
+    "torch": "2.9.1+cu128",
+    "torch_devices": [
+      {
+        "compute_capability": [
+          12,
+          0
+        ],
+        "memory_bytes": 101975851008,
+        "name": "NVIDIA RTX PRO 6000 Blackwell Server Edition"
+      }
+    ]
+  },
+  {
+    "cuda": "12.8",
+    "python": "3.12.11 (main, Jun  4 2025, 08:56:18) [GCC 11.4.0]",
+    "run_key": "40cc47d60bfb6fc65e46",
+    "torch": "2.8.0+cu128",
+    "torch_devices": [
+      {
+        "compute_capability": [
+          8,
+          9
+        ],
+        "memory_bytes": 25252724736,
+        "name": "NVIDIA GeForce RTX 4090"
+      }
+    ]
+  },
+  {
+    "cuda": "12.8",
+    "python": "3.11.14 | packaged by conda-forge | (main, Oct 22 2025, 22:46:25) [GCC 14.3.0]",
+    "run_key": "c3a7367581cd156adc44",
+    "torch": "2.9.1+cu128",
+    "torch_devices": [
+      {
+        "compute_capability": [
+          8,
+          0
+        ],
+        "memory_bytes": 85094825984,
+        "name": "NVIDIA A100-SXM4-80GB"
+      }
+    ]
+  },
+  {
+    "cuda": "12.8",
+    "python": "3.11.14 | packaged by conda-forge | (main, Oct 22 2025, 22:46:25) [GCC 14.3.0]",
+    "run_key": "46460eb6072dde91ce68",
+    "torch": "2.9.1+cu128",
+    "torch_devices": [
+      {
+        "compute_capability": [
+          12,
+          0
+        ],
+        "memory_bytes": 25367150592,
+        "name": "NVIDIA RTX PRO 6000 Blackwell Server Edition MIG 1g.24gb"
+      }
+    ]
+  },
+  {
+    "cuda": "12.8",
+    "python": "3.11.14 | packaged by conda-forge | (main, Oct 22 2025, 22:46:25) [GCC 14.3.0]",
+    "run_key": "097c1a75e41b9b329286",
+    "torch": "2.9.1+cu128",
+    "torch_devices": [
+      {
+        "compute_capability": [
+          8,
+          9
+        ],
+        "memory_bytes": 25252724736,
+        "name": "NVIDIA GeForce RTX 4090"
+      }
+    ]
+  },
+  {
+    "cuda": "12.8",
+    "python": "3.11.14 | packaged by conda-forge | (main, Oct 22 2025, 22:46:25) [GCC 14.3.0]",
+    "run_key": "e8372c001ec9feecf9f3",
+    "torch": "2.9.1+cu128",
+    "torch_devices": [
+      {
+        "compute_capability": [
+          12,
+          0
+        ],
+        "memory_bytes": 33670758400,
+        "name": "NVIDIA GeForce RTX 5090"
+      }
+    ]
+  },
+  {
+    "cuda": "12.8",
+    "python": "3.12.11 (main, Jun  4 2025, 08:56:18) [GCC 11.4.0]",
+    "run_key": "2fc1db47b59783abbcb0",
+    "torch": "2.8.0+cu128",
+    "torch_devices": [
+      {
+        "compute_capability": [
+          12,
+          0
+        ],
+        "memory_bytes": 25367150592,
+        "name": "NVIDIA RTX PRO 6000 Blackwell Server Edition MIG 1g.24gb"
+      }
+    ]
+  },
+  {
+    "cuda": "12.8",
+    "python": "3.11.14 | packaged by conda-forge | (main, Oct 22 2025, 22:46:25) [GCC 14.3.0]",
+    "run_key": "f4f7443c1b01486b0046",
+    "torch": "2.9.1+cu128",
+    "torch_devices": [
+      {
+        "compute_capability": [
+          12,
+          0
+        ],
+        "memory_bytes": 33689829376,
+        "name": "NVIDIA RTX PRO 4500 Blackwell Server Edition"
+      }
+    ]
+  },
+  {
+    "cuda": "12.8",
+    "python": "3.11.14 | packaged by conda-forge | (main, Oct 22 2025, 22:46:25) [GCC 14.3.0]",
+    "run_key": "2a5d8adfa5e4fa82211a",
+    "torch": "2.9.1+cu128",
+    "torch_devices": [
+      {
+        "compute_capability": [
+          8,
+          9
+        ],
+        "memory_bytes": 50867404800,
+        "name": "NVIDIA RTX 6000 Ada Generation"
+      }
+    ]
+  },
+  {
+    "cuda": "12.8",
+    "python": "3.11.14 | packaged by conda-forge | (main, Oct 22 2025, 22:46:25) [GCC 14.3.0]",
+    "run_key": "9f3465d9d1649867d973",
+    "torch": "2.9.1+cu128",
+    "torch_devices": [
+      {
+        "compute_capability": [
+          12,
+          0
+        ],
+        "memory_bytes": 33670758400,
+        "name": "NVIDIA GeForce RTX 5090"
+      }
+    ]
+  },
+  {
+    "cuda": "12.8",
+    "python": "3.11.14 | packaged by conda-forge | (main, Oct 22 2025, 22:46:25) [GCC 14.3.0]",
+    "run_key": "bb88fa28b65fc411aaa0",
+    "torch": "2.9.1+cu128",
+    "torch_devices": [
+      {
+        "compute_capability": [
+          12,
+          0
+        ],
+        "memory_bytes": 33689829376,
+        "name": "NVIDIA RTX PRO 4500 Blackwell Server Edition"
+      }
+    ]
+  },
+  {
+    "cuda": "12.8",
+    "python": "3.12.11 (main, Jun  4 2025, 08:56:18) [GCC 11.4.0]",
+    "run_key": "eaebc59b35789d12b015",
+    "torch": "2.8.0+cu128",
+    "torch_devices": [
+      {
+        "compute_capability": [
+          8,
+          9
+        ],
+        "memory_bytes": 23661248512,
+        "name": "NVIDIA L4"
+      }
+    ]
+  },
+  {
+    "cuda": "12.8",
+    "python": "3.11.14 | packaged by conda-forge | (main, Oct 22 2025, 22:46:25) [GCC 14.3.0]",
+    "run_key": "5defb2f4bbacb2b5310d",
+    "torch": "2.9.1+cu128",
+    "torch_devices": [
+      {
+        "compute_capability": [
+          12,
+          0
+        ],
+        "memory_bytes": 33687470080,
+        "name": "NVIDIA RTX PRO 4500 Blackwell"
+      }
+    ]
+  },
+  {
+    "cuda": "12.8",
+    "python": "3.12.11 (main, Jun  4 2025, 08:56:18) [GCC 11.4.0]",
+    "run_key": "dd0ceea156e949f41c2b",
+    "torch": "2.8.0+cu128",
+    "torch_devices": [
+      {
+        "compute_capability": [
+          8,
+          9
+        ],
+        "memory_bytes": 25252724736,
+        "name": "NVIDIA GeForce RTX 4090"
+      }
+    ]
+  },
+  {
+    "cuda": "12.8",
+    "python": "3.12.11 (main, Jun  4 2025, 08:56:18) [GCC 11.4.0]",
+    "run_key": "6ef4aa216ad114b53cb0",
+    "torch": "2.8.0+cu128",
+    "torch_devices": [
+      {
+        "compute_capability": [
+          12,
+          0
+        ],
+        "memory_bytes": 33687470080,
+        "name": "NVIDIA RTX PRO 4500 Blackwell"
+      }
+    ]
+  },
+  {
+    "cuda": "12.8",
+    "python": "3.11.14 | packaged by conda-forge | (main, Oct 22 2025, 22:46:25) [GCC 14.3.0]",
+    "run_key": "07e4005397c04b05c602",
+    "torch": "2.9.1+cu128",
+    "torch_devices": [
+      {
+        "compute_capability": [
+          12,
+          0
+        ],
+        "memory_bytes": 101975851008,
+        "name": "NVIDIA RTX PRO 6000 Blackwell Server Edition"
+      }
+    ]
+  },
+  {
+    "cuda": "12.8",
+    "python": "3.12.11 (main, Jun  4 2025, 08:56:18) [GCC 11.4.0]",
+    "run_key": "5b30e1abf63c95701345",
+    "torch": "2.8.0+cu128",
+    "torch_devices": [
+      {
+        "compute_capability": [
+          12,
+          0
+        ],
+        "memory_bytes": 33689829376,
+        "name": "NVIDIA RTX PRO 4500 Blackwell Server Edition"
+      }
+    ]
+  },
+  {
+    "cuda": "12.8",
+    "python": "3.11.14 | packaged by conda-forge | (main, Oct 22 2025, 22:46:25) [GCC 14.3.0]",
+    "run_key": "8da9812c4c9c17c9eb14",
+    "torch": "2.9.1+cu128",
+    "torch_devices": [
+      {
+        "compute_capability": [
+          12,
+          0
+        ],
+        "memory_bytes": 33687470080,
+        "name": "NVIDIA RTX PRO 4500 Blackwell"
+      }
+    ]
+  },
+  {
+    "cuda": "12.8",
+    "python": "3.12.11 (main, Jun  4 2025, 08:56:18) [GCC 11.4.0]",
+    "run_key": "0f2593d02a8b4b09f04b",
+    "torch": "2.8.0+cu128",
+    "torch_devices": [
+      {
+        "compute_capability": [
+          8,
+          9
+        ],
+        "memory_bytes": 50867404800,
+        "name": "NVIDIA RTX 6000 Ada Generation"
+      }
+    ]
+  },
+  {
+    "cuda": "12.8",
+    "python": "3.12.11 (main, Jun  4 2025, 08:56:18) [GCC 11.4.0]",
+    "run_key": "dd1dcdc98fd5de827b75",
+    "torch": "2.8.0+cu128",
+    "torch_devices": [
+      {
+        "compute_capability": [
+          8,
+          9
+        ],
+        "memory_bytes": 25252724736,
+        "name": "NVIDIA GeForce RTX 4090"
+      }
+    ]
+  },
+  {
+    "cuda": "12.8",
+    "python": "3.11.14 | packaged by conda-forge | (main, Oct 22 2025, 22:46:25) [GCC 14.3.0]",
+    "run_key": "357805d00278b492aded",
+    "torch": "2.9.1+cu128",
+    "torch_devices": [
+      {
+        "compute_capability": [
+          12,
+          0
+        ],
+        "memory_bytes": 25367150592,
+        "name": "NVIDIA RTX PRO 6000 Blackwell Server Edition MIG 1g.24gb"
+      }
+    ]
+  }
+]

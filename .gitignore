@@ -1,0 +1,23 @@
+# Never publish live state or credentials
+.env
+.env.*
+*.pem
+*.key
+*.sqlite3
+*.sqlite3-*
+*.db
+*.log
+benchmarks/data/
+data/
+.private/
+publication-audit/
+# Generated environments and caches
+.venv/
+__pycache__/
+.pytest_cache/
+.ruff_cache/
+*.egg-info/
+.DS_Store
+# Plans are always local-only
+plans/
+**/plans/

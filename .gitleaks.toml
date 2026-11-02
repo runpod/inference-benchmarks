@@ -1,0 +1,13 @@
+[extend]
+useDefault = true
+
+# These are exporter-generated SHA256 identifiers, not authentication keys.
+# Suppress only this rule's exact field/value shape in these three result files.
+[[rules]]
+id = "generic-api-key"
+[[rules.allowlists]]
+description = "Content hashes and pseudonymous run identifiers"
+condition = "AND"
+regexTarget = "match"
+paths = ['''(^|/)results/(runs|trials|hardware)\.json$''']
+regexes = ['''^(?:run_key": "[0-9a-f]{20}"|workload_key": "[0-9a-f]{64}")$''']
